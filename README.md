@@ -4,5 +4,6 @@
 ## Projects
 In this profile, I intend to share projects related to my studies and other personal projects.
 
+---
 ## Contact
 - **Email:** RyanMatheusFerreira@Outlook.com.br
